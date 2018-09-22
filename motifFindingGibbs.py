@@ -1,10 +1,11 @@
 """
 
 Running motif finding using gibbs sampling algorithm.
-    python step2.py icpc ML SL SC datasetID N_runs 
-    eg. python step2.py 2 8 500 10 0 10
+    python motifFindingGibbs.py icpc ML SL SC datasetID N_runs 
+    eg. python motifFindingGibbs.py 2 8 500 10 0 10
 
 @Chuankai Zhao, czhao37@illinois.edu
+@Zheyi Zhu, Qingqing Zhang
 
 """
 
